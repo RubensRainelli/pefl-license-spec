@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="124" height="20" role="img" aria-label="License: PEFL v1.0">
+  <title>License: PEFL v1.0</title>
+  <linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <clipPath id="r">
+    <rect width="124" height="20" rx="3" fill="#fff"/>
+  </clipPath>
+  <g clip-path="url(#r)">
+    <rect width="53" height="20" fill="#555"/>
+    <rect x="53" width="71" height="20" fill="#24292e"/>
+    <rect width="124" height="20" fill="url(#s)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="110" font-weight="bold">
+    <text x="275" y="140" transform="scale(.1)" fill="#111" fill-opacity=".3">License</text>
+    <text x="275" y="130" transform="scale(.1)">License</text>
+    <text x="875" y="140" transform="scale(.1)" fill="#111" fill-opacity=".3">PEFL v1.0</text>
+    <text x="875" y="130" transform="scale(.1)">PEFL v1.0</text>
+  </g>
+</svg>

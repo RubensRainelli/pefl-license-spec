@@ -1,0 +1,14 @@
+/*
+ * Personal and Educational Free License (PEF License / PEFL)
+ * Versione 1.0 - 2026-05-26
+ * Copyright (c) 2026 Rubens Rainelli
+ *
+ * Contatti / Contacts:
+ *   Email: rubens@rainelli.it
+ *   GitHub: https://github.com/RubensRainelli/
+ *   Tel: (+39) 342 811 5882
+ *
+ * Uso privato gratuito consentito.
+ * Uso aziendale o business vietato senza autorizzazione scritta e fee.
+ * La licenza completa si trova nel file LICENSE.
+ */

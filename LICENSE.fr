@@ -1,0 +1,48 @@
+Licence Gratuite Personnelle et Éducative
+Licence PEF (PEFL)
+Version 1.0
+Date : 2026-05-26
+Dépôt Officiel des Spécifications : https://github.com/RubensRainelli/pefl-license-spec
+
+Cette licence régit également son propre texte, sa propre distribution et sa propre utilisation ; par conséquent, la licence elle-même ne peut pas être utilisée dans un environnement d'entreprise sans autorisation écrite et paiement des frais correspondants.
+
+Copyright (c) 2026 Rubens Rainelli
+
+Coordonnées de l'auteur :
+  - E-mail : rubens@rainelli.it
+  - GitHub : https://github.com/RubensRainelli/
+  - Téléphone : (+39) 342 811 5882
+
+1. Définitions.
+L'« Usage Personnel » fait référence à un usage personnel, domestique, éducatif, académique, ou par des écoles, universités et organisations à but non lucratif / entités du tiers secteur, sans but lucratif ni soutien direct aux activités de l'entreprise.
+Les lieux de culte et les organisations religieuses sont explicitement exclus de l'Usage Personnel et sont considérés comme équivalents à l'Usage en Entreprise.
+L'« Usage en Entreprise » fait référence à toute utilisation du Logiciel dans des contextes professionnels, commerciaux, productifs ou organisationnels, y compris les serveurs, PC, ordinateurs portables, postes de travail, infrastructures, environnements de test, de staging ou de production gérés par des entreprises, sociétés, entités religieuses ou sujets équivalents.
+
+2. Autorisations.
+Toute personne est autorisée à utiliser, copier, modifier et redistribuer le Logiciel gratuitement pour son Usage Personnel.
+La modification du Logiciel est autorisée pour un Usage Personnel, à condition que le nom de l'auteur, la référence à cette licence et tous les avis de droit d'auteur originaux restent visibles.
+Le Logiciel et cette licence peuvent être hébergés, archivés et distribués sur tout appareil ou support de toute nature.
+
+3. Obligations d'Attribution et d'Approbation.
+Chaque copie, distribution ou œuvre dérivée du Logiciel doit conserver le nom de l'auteur, Rubens Rainelli, et ne peut pas supprimer, masquer ou remplacer l'attribution d'origine.
+Cette licence doit toujours être visible, au premier plan, à chaque lancement du Logiciel (ou au moins une fois tous les 7 jours si un mécanisme de persistance locale est disponible pour stocker en toute sécurité la date d'acceptation), et doit être explicitement approuvée par l'utilisateur avant toute utilisation.
+Chaque redistribution doit inclure la licence sous sa forme actuelle, sans modifier le texte, la version ou les conditions.
+
+4. Interdiction de l'Utilisation en Entreprise sans Autorisation.
+Tout Usage en Entreprise du Logiciel, ou toute utilisation du Logiciel sur des machines appartenant à l'entreprise oû non destinées à un usage personnel exclusif, est interdit sauf autorisation écrite et paiement des frais d'utilisation correspondants convenus avec l'auteur.
+En l'absence d'une telle autorisation, l'utilisation dans des environnements professionnels est interdite même si le Logiciel n'est pas vendu ou distribué à des tiers.
+
+5. Redistribution.
+Quiconque peut redistribuer le Logiciel, avec ou sans modifications, à condition que les termes de cette licence soient respectés, y compris le maintien de l'attribution et le maintien de la licence actuelle.
+La distribution du Logiciel sous une licence différente est interdite sans le consentement écrit de l'auteur.
+
+6. Absence de Garantie.
+Le Logiciel est fourni « en l'état », sans garantie d'aucune sorte, expresse ou implicite.
+L'auteur n'est pas responsable des pertes de données, des dysfonctionnements, de l'incompatibilité, des interruptions ou de tout autre effet découlant de l'utilisation du Logiciel.
+
+7. Responsabilité.
+L'utilisation du Logiciel est sous la seule responsabilité de l'utilisateur.
+Tout dommage, perte ou conséquence résultant de l'utilisation, de l'abus ou de l'interprétation du Logiciel est à la charge de l'utilisateur.
+
+8. Acceptation.
+L'utilisation, la copie, la modification ou la redistribution du Logiciel implique l'acceptation pleine et entière des termes de cette licence.

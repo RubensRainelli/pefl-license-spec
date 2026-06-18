@@ -1,0 +1,48 @@
+Freie Lizenz für den persönlichen und schulischen Gebrauch
+PEF-Lizenz (PEFL)
+Version 1.0
+Datum: 26.05.2026
+Offizielles Spezifikations-Repository: https://github.com/RubensRainelli/pefl-license-spec
+
+Diese Lizenz regelt auch ihren eigenen Text, ihre eigene Verbreitung und ihre eigene Verwendung; daher darf die Lizenz selbst ohne schriftliche Genehmigung und Zahlung der entsprechenden Gebühr nicht in einer Unternehmensumgebung verwendet werden.
+
+Copyright (c) 2026 Rubens Rainelli
+
+Kontaktdaten des Autors:
+  - E-Mail: rubens@rainelli.it
+  - GitHub: https://github.com/RubensRainelli/
+  - Telefon: (+39) 342 811 5882
+
+1. Definitionen.
+Der „Persönliche Gebrauch“ bezieht sich auf den persönlichen, häuslichen, schulischen, akademischen Gebrauch oder die Nutzung durch Schulen, Universitäten und gemeinnützige Organisationen / Einrichtungen des Dritten Sektors, ohne Gewinnabsicht oder direkte Unterstützung von Unternehmensaktivitäten.
+Kirchen und religiöse Organisationen sind ausdrücklich vom persönlichen Gebrauch ausgeschlossen und werden der Unternehmensnutzung gleichgestellt.
+Die „Unternehmensnutzung“ bezieht sich auf jede Nutzung der Software in geschäftlichen, beruflichen, produktiven oder organisatorischen Kontexten, einschließlich Servern, PCs, Notebooks, Workstations, Infrastrukturen, Test-, Staging- oder Produktionsumgebungen, die von Unternehmen, Gesellschaften, religiösen Einrichtungen oder gleichwertigen Subjekten verwaltet werden.
+
+2. Berechtigungen.
+Jedem ist es gestattet, die Software für den persönlichen Gebrauch kostenlos zu nutzen, zu kopieren, zu modifizieren und weiterzuverbreiten.
+Die Änderung der Software ist für den persönlichen Gebrauch gestattet, vorausgesetzt, dass der Name des Autors, der Verweis auf diese Lizenz und alle ursprünglichen Urheberrechtshinweise sichtbar bleiben.
+Die Software und diese Lizenz dürfen auf jedem Gerät oder Medium jeglicher Art gehostet, archiviert und verbreitet werden.
+
+3. Namensnennungs- und Genehmigungspflichten.
+Jede Kopie, Verbreitung oder Ableitung der Software muss den Namen des Autors, Rubens Rainelli, beibehalten und darf die ursprüngliche Namensnennung nicht entfernen, verdecken oder ersetzen.
+Diese Lizenz muss bei jedem Start der Software im Vordergrund sichtbar sein (oder mindestens einmal alle 7 Tage, wenn ein lokaler Persistenzmechanismus verfügbar ist, um das Akzeptanzdatum sicher zu speichern) und muss vom Benutzer vor jeder Nutzung ausdrücklich genehmigt werden.
+Jede Weiterverbreitung muss die Lizenz in ihrer aktuellen Form enthalten, ohne den Text, die Version oder die Bedingungen zu ändern.
+
+4. Verbot der Unternehmensnutzung ohne Genehmigung.
+Jede Unternehmensnutzung der Software oder jede Nutzung der Software auf Maschinen im Besitz von Unternehmen oder auf Maschinen, die nicht für den ausschließlichen persönlichen Gebrauch bestimmt sind, ist untersagt, es sei denn, es liegt eine schriftliche Genehmigung und die Zahlung der mit dem Autor vereinbarten entsprechenden Nutzungsgebühr vor.
+Ohne eine solche Genehmigung ist die Nutzung in geschäftlichen Umgebungen verboten, auch wenn die Software nicht an Dritte verkauft oder verteilt wird.
+
+5. Weiterverbreitung.
+Jeder darf die Software mit oder ohne Änderungen weiterverbreiten, vorausgesetzt, dass die Bedingungen dieser Lizenz eingehalten werden, einschließlich der Beibehaltung der Namensnennung und der Beibehaltung der aktuellen Lizenz.
+Die Verbreitung der Software unter einer anderen Lizenz ist ohne schriftliche Zustimmung des Autors untersagt.
+
+6. Keine Gewährleistung.
+Die Software wird „wie besehen“ zur Verfügung gestellt, ohne jegliche ausdrückliche oder implizite Gewährleistung.
+Der Autor haftet nicht für Datenverluste, Fehlfunktionen, Inkompatibilitäten, Unterbrechungen oder andere Auswirkungen, die sich aus der Nutzung der Software ergeben.
+
+7. Haftung.
+Die Nutzung der Software erfolgt auf eigene Verantwortung des Benutzers.
+Jeglicher Schaden, Verlust oder Konsequenz, die sich aus der Nutzung, dem Missbrauch oder der Interpretation der Software ergeben, trägt der Benutzer.
+
+8. Annahme.
+Die Nutzung, Vervielfältigung, Änderung oder Weiterverbreitung der Software setzt die vollständige Annahme der Bedingungen dieser Lizenz voraus.

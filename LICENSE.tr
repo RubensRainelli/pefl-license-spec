@@ -1,0 +1,48 @@
+Kişisel ve Eğitsel Ücretsiz Lisans
+PEF Lisansı (PEFL)
+Sürüm 1.0
+Tarih: 2026-05-26
+Resmi Özellikler Deposu: https://github.com/RubensRainelli/pefl-license-spec
+
+Bu lisans aynı zamanda kendi metnini, kendi dağıtımını ve kendi kullanımını da yönetir; bu nedenle, lisansın kendisi yazılı izin ve ilgili ücretin ödenmesi olmaksızın kurumsal bir ortamda kullanılamaz.
+
+Telif Hakkı (c) 2026 Rubens Rainelli
+
+Yazarın İletişim Bilgileri:
+  - E-posta: rubens@rainelli.it
+  - GitHub: https://github.com/RubensRainelli/
+  - Telefon: (+39) 342 811 5882
+
+1. Tanımlar.
+"Kişisel Kullanım", kar amacı gütmeyen veya kurumsal faaliyetlere doğrudan destek sağlamayan kişisel, evsel, eğitsel, akademik kullanımı veya okullar, üniversiteler ve Kar Amacı Gütmeyen Kuruluşlar / Üçüncü Sektör Kuruluşları tarafından kullanımı ifade eder.
+İbadethaneler ve dini kuruluşlar Kişisel Kullanım kapsamından açıkça hariç tutulmuştur ve Kurumsal Kullanıma eşdeğer kabul edilir.
+"Kurumsal Kullanım", Yazılımın kurumsal şirketler, işletmeler, dini kuruluşlar veya eşdeğer konular tarafından yönetilen sunucular, PC'ler, dizüstü bilgisayarlar, iş istasyonları, altyapılar, test, hazırlık (staging) veya üretim ortamları dahil olmak üzere ticari, profesyonel, üretken veya organizasyonel bağlamlarda her türlü kullanımını ifade eder.
+
+2. İzinler.
+Herkesin Yazılımı Kişisel Kullanım için ücretsiz olarak kullanmasına, kopyalamasına, değiştirmesine ve yeniden dağıtmasına izin verilir.
+Yazarın adının, bu lisansa yapılan atıfların ve tüm orijinal telif hakkı bildirimlerinin görünür kalması koşuluyla, Yazılımın Kişisel Kullanım için değiştirilmesine izin verilir.
+Yazılım ve bu lisans, herhangi bir nitelikteki herhangi bir cihazda veya ortamda barındırılabilir, arşivlenebilir ve dağıtılabilir.
+
+3. Atıf ve Onay Yükümlülükleri.
+Yazılımın her kopyası, dağıtımı veya türev çalışması yazarın adını, Rubens Rainelli'yi korumalıdır ve orijinal atıfı kaldıramaz, gizleyemez veya değiştiremez.
+Bu lisans, Yazılımın her başlatılmasında her zaman ön planda görünür olmalı (veya kabul tarihini güvenli bir şekilde saklamak için yerel bir kalıcılık mekanizması mevcutsa en az 7 günde bir) ve herhangi bir kullanımdan önce kullanıcı tarafından açıkça onaylanmalıdır.
+Her yeniden dağıtım, metni, sürümü veya koşulları değiştirmeden lisansı mevcut biçiminde içermelidir.
+
+4. İzin Alınmadan Kurumsal Kullanım Yasağı.
+Yazılımın herhangi bir Kurumsal Kullanımı veya Yazılımın kurumsal mülkiyetteki makinelerde veya özel kişisel kullanım için tasarlanmamış makinelerde kullanımı, yazarla kararlaştırılan ilgili kullanım ücretinin ödenmesi ve yazılı izin alınması dışında yasaktır.
+Böyle bir iznin olmaması durumunda, Yazılım satılmasa veya üçüncü şahıslara dağıtılmasa bile iş ortamlarında kullanımı yasaktır.
+
+5. Yeniden Dağıtım.
+Atıfın ve mevcut lisansın korunması da dahil olmak üzere bu lisansın koşullarına uyulması şartıyla, herkes Yazılımı değişiklik yaparak veya yapmadan yeniden dağıtabilir.
+Yazılımın yazarın yazılı izni olmaksızın farklı bir lisans altında dağıtılması yasaktır.
+
+6. Garanti Yoktur.
+Yazılım, açık veya zımni hiçbir garanti verilmeksizin "olduğu gibi" sunulmaktadır.
+Yazar, Yazılımın kullanımından kaynaklanan veri kaybı, arızalar, uyumsuzluk, kesintiler veya diğer etkilerden sorumlu değildir.
+
+7. Sorumluluk.
+Yazılımın kullanımı tamamen kullanıcının kendi sorumluluğundadır.
+Yazılımın kullanımından, kötüye kullanılmasından veya yorumlanmasından kaynaklanan her türlü zarar, kayıp veya sonuç kullanıcıya aittir.
+
+8. Kabul.
+Yazılımın kullanılması, kopyalanması, değiştirilmesi veya yeniden dağıtılması bu lisansın koşullarının tamamen kabul edildiği anlamına gelir.
