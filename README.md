@@ -9,26 +9,39 @@ Additionally, PEFL features a unique **mandatory user-approval clause** to ensur
 
 ---
 
-## 🌐 Official Translations / Lingue Ufficiali
+## 🌐 Official Translations
 
-Select your preferred language version of the PEFL v1.0 license text:
+Select your preferred language version of the PEFL v1.0 license text and documentation:
 
-- 🇬🇧 **[English (Master)](LICENSE)**
-- 🇮🇹 **[Italiano](LICENSE.it)**
-- 🇫🇷 **[Français](LICENSE.fr)**
-- 🇪🇸 **[Español](LICENSE.es)**
-- 🇩🇪 **[Deutsch](LICENSE.de)**
-- 🇵🇹 **[Português](LICENSE.pt)**
-- 🇷🇺 **[Русский](LICENSE.ru)**
-- 🇹🇷 **[Türkçe](LICENSE.tr)**
-- 🇸🇦 **[العربية](LICENSE.ar)**
-- 🇯🇵 **[日本語](LICENSE.ja)**
-- 🇰🇷 **[한국어](LICENSE.ko)**
-- 🇮🇳 **[हिन्दी](LICENSE.hi)**
-- 🇧🇩 **[বাংলা](LICENSE.bn)**
-- 🇵🇰 **[اردو](LICENSE.ur)**
-- 🇨🇳 **[中文](LICENSE.zh)**
-- 🌐 **[Esperanto](LICENSE.eo)**
+| Language | Official License Text | Translated README |
+| :--- | :---: | :---: |
+| 🇬🇧 **English** | [LICENSE](LICENSE) | [English (Master)](README.md) |
+| 🇮🇹 **Italiano** | [LICENSE.it](LICENSE.it) | [Leggi in Italiano](translations/README_IT.md) |
+| 🇫🇷 **Français** | [LICENSE.fr](LICENSE.fr) | [Lire en Français](translations/README_FR.md) |
+| 🇪🇸 **Español** | [LICENSE.es](LICENSE.es) | [Leer en Español](translations/README_ES.md) |
+| 🇩🇪 **Deutsch** | [LICENSE.de](LICENSE.de) | [Lesen auf Deutsch](translations/README_DE.md) |
+| 🇵🇹 **Português** | [LICENSE.pt](LICENSE.pt) | [Ler em Português](translations/README_PT.md) |
+| 🇷🇺 **Русский** | [LICENSE.ru](LICENSE.ru) | [Читать на Русском](translations/README_RU.md) |
+| 🇹🇷 **Türkçe** | [LICENSE.tr](LICENSE.tr) | [Türkçe Oku](translations/README_TR.md) |
+| 🇸🇦 **العربية** | [LICENSE.ar](LICENSE.ar) | [اقرأ بالعربية](translations/README_AR.md) |
+| 🇯🇵 **日本語** | [LICENSE.ja](LICENSE.ja) | [日本語で読む](translations/README_JA.md) |
+| 🇰🇷 **한국어** | [LICENSE.ko](LICENSE.ko) | [한국어로 읽기](translations/README_KO.md) |
+| 🇮🇳 **हिन्दी** | [LICENSE.hi](LICENSE.hi) | [हिन्दी में पढ़ें](translations/README_HI.md) |
+| 🇧🇩 **বাংলা** | [LICENSE.bn](LICENSE.bn) | [বাংলায় পড়ুন](translations/README_BN.md) |
+| 🇵🇰 **اردو** | [LICENSE.ur](LICENSE.ur) | [اردو میں پڑھیں](translations/README_UR.md) |
+| 🇨🇳 **中文** | [LICENSE.zh](LICENSE.zh) | [中文阅读](translations/README_ZH.md) |
+| 🌐 **Esperanto** | [LICENSE.eo](LICENSE.eo) | [Legi en Esperanto](translations/README_EO.md) |
+
+---
+
+## 🤖 AI Coding Assistants Instructions
+
+If you use AI agents (like Cursor, GitHub Copilot, Gemini, or ChatGPT) to code or refactor your application, you should feed them our dedicated [AI_INSTRUCTIONS.md](AI_INSTRUCTIONS.md) file. 
+
+This file acts as a system prompt/rule directive instructing the AI coding assistant to:
+- Respect PEFL terms.
+- Preserve file headers.
+- **Enforce Clause 3** by implementing or maintaining the EULA modal/prompts on any new startup flow or layout edits.
 
 ---
 
@@ -86,17 +99,6 @@ Add the official badge to your repository's README to declare PEFL terms clearly
 For light/dark themes, you can choose from these options:
 - **Red Accent**: `https://raw.githubusercontent.com/RubensRainelli/pefl-license-spec/main/badges/pefl-badge-red.svg`
 - **Dark Accent**: `https://raw.githubusercontent.com/RubensRainelli/pefl-license-spec/main/badges/pefl-badge-dark.svg`
-
----
-
-## 🤖 AI Coding Assistants Instructions
-
-If you use AI agents (like Cursor, GitHub Copilot, Gemini, or ChatGPT) to code or refactor your application, you should feed them our dedicated [AI_INSTRUCTIONS.md](AI_INSTRUCTIONS.md) file. 
-
-This file acts as a system prompt/rule directive instructing the AI coding assistant to:
-- Respect PEFL terms.
-- Preserve file headers.
-- **Enforce Clause 3** by implementing or maintaining the EULA modal/prompts on any new startup flow or layout edits.
 
 ---
 
